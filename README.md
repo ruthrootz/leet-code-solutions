@@ -6,5 +6,10 @@
 | C#               | 7                | [reverse integer](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/reverse-integer.cs) |
 | C#               | 9                | [palindrome number](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/palindrome-number.cs) |
 | C#               | 13               | [roman to integer](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/roman-to-integer.cs) |
-|                  |                  | [swap case](https://github.com/ruthrootz/hacker-rank-solutions/blob/main/python/strings/swap-case.py) |
-|                  |                  | [string split and join](https://github.com/ruthrootz/hacker-rank-solutions/blob/main/python/strings/string-split-and-join.py) |
+| javascript       | 27               | [remove element](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/remove-element.js) |
+| javascript       | 371              | [sum of two integers](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/sum-of-two-integers.js) |
+| javascript       | 442              | [find all duplicates in an array](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/find-all-duplicates-in-an-array.js) |
+| javascript       | 771              | [jewels and stones](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/jewels-and-stones.js) |
+| C#               | 883              | [projection area of 3D shapes](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/projection-area-of-3d-shapes.cs) |
+|C#                | 1108             | [defanging an IP address](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/defanging-an-ip-address.cs) |
+| javascript       | 1252             | [cells with odd values in a matrix](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/cells-with-odd-values-in-a-matrix.cs) |
