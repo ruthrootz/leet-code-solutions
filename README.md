@@ -7,11 +7,11 @@
 | C#               | [9](https://leetcode.com/problems/palindrome-number) | [palindrome number](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/palindrome-number.cs) |
 | C#               | [13](https://leetcode.com/problems/roman-to-integer) | [roman to integer](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/roman-to-integer.cs) |
 | javascript       | [27](https://leetcode.com/problems/remove-element) | [remove element](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/remove-element.js) |
-| C#               | [146]([https://leetcode.com/problems/remove-element](https://leetcode.com/problems/lru-cache/description/)) | [LRU Cache]() |
 | javascript       | [371](https://leetcode.com/problems/sum-of-two-integers) | [sum of two integers](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/sum-of-two-integers.js) |
 | javascript       | [442](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [find all duplicates in an array](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/find-all-duplicates-in-an-array.js) |
 | javascript       | [771](https://leetcode.com/problems/jewels-and-stones) | [jewels and stones](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/jewels-and-stones.js) |
 | C#               | [883](https://leetcode.com/problems/projection-area-of-3d-shapes) | [projection area of 3D shapes](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/projection-area-of-3d-shapes.cs) |
 |C#                | [1108](https://leetcode.com/problems/defanging-an-ip-address) | [defanging an IP address](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/defanging-an-ip-address.cs) |
 | javascript       | [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [cells with odd values in a matrix](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/cells-with-odd-values-in-a-matrix.cs) |
-| Go | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [merge two sorted lists](https://github.com/ruthrootz/leet-code-solutions/blob/main/go/merge-two-sorted-lists.go)
+| Go | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [merge two sorted lists](https://github.com/ruthrootz/leet-code-solutions/blob/main/go/merge-two-sorted-lists.go) |
+| C#               | [146](https://leetcode.com/problems/lru-cache/) | [LRU Cache]() |
