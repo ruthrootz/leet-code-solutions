@@ -14,4 +14,4 @@
 |C#                | [1108](https://leetcode.com/problems/defanging-an-ip-address) | [defanging an IP address](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/defanging-an-ip-address.cs) |
 | javascript       | [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [cells with odd values in a matrix](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/cells-with-odd-values-in-a-matrix.cs) |
 | Go | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [merge two sorted lists](https://github.com/ruthrootz/leet-code-solutions/blob/main/go/merge-two-sorted-lists.go) |
-| C#               | [146](https://leetcode.com/problems/lru-cache/) | [LRU Cache]() |
+| C#               | [146](https://leetcode.com/problems/lru-cache/) | [LRU Cache](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/lru-cache.cs) |
