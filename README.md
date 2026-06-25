@@ -7,6 +7,7 @@
 | C#               | [9](https://leetcode.com/problems/palindrome-number) | [palindrome number](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/palindrome-number.cs) |
 | C#               | [13](https://leetcode.com/problems/roman-to-integer) | [roman to integer](https://github.com/ruthrootz/leet-code-solutions/blob/main/csharp/roman-to-integer.cs) |
 | javascript       | [27](https://leetcode.com/problems/remove-element) | [remove element](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/remove-element.js) |
+| C#               | [146]([https://leetcode.com/problems/remove-element](https://leetcode.com/problems/lru-cache/description/)) | [LRU Cache]() |
 | javascript       | [371](https://leetcode.com/problems/sum-of-two-integers) | [sum of two integers](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/sum-of-two-integers.js) |
 | javascript       | [442](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [find all duplicates in an array](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/find-all-duplicates-in-an-array.js) |
 | javascript       | [771](https://leetcode.com/problems/jewels-and-stones) | [jewels and stones](https://github.com/ruthrootz/leet-code-solutions/blob/main/javascript/jewels-and-stones.js) |
