@@ -12,7 +12,8 @@ public class Node {
 }
 
 public class LRUCache {
-    List<int> cache;
+    int capacity = -1;
+    int count = 0;
     Node back = new Node();
     Node front = new Node();
     Dictionary<int, int> lookupTable = new Dictionary<int, int>();
@@ -26,7 +27,7 @@ public class LRUCache {
         {
             return;
         }
-        cache = new List<int>(capacity);
+        this.capacity = capacity;
         back.Next = front;
         front.Previous = back;
     }
