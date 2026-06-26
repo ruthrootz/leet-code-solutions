@@ -42,12 +42,12 @@ public class LRUCache {
         // else, count++, add
     }
 
-    private void Remove()
+    private void Pop()
     {
 
     }
 
-    private void Add()
+    private void Push()
     {
 
     }
