@@ -3,10 +3,19 @@ public class Node {
     public int Value { get; set; } = -1;
     public Node Previous { get; set; } = null;
     public Node Next { get; set; } = null;
+
+    Node(int key, int value)
+    {
+        this.key = key;
+        this.value = value;
+    }
 }
 
 public class LRUCache {
     List<int> cache;
+    Node back = new Node();
+    Node front = new Node();
+    Dictionary<int, int> lookupTable = new Dictionary<int, int>();
 
     public LRUCache(int capacity) {
         if (capacity < 1)
@@ -18,6 +27,8 @@ public class LRUCache {
             return;
         }
         cache = new List<int>(capacity);
+        back.Next = front;
+        front.Previous = back;
     }
     
     public int Get(int key) {
