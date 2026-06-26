@@ -33,22 +33,22 @@ public class LRUCache {
     }
     
     public int Get(int key) {
-        if (cache[key] is not null)
-        {
-            return cache[key];
-        }
-        return -1;
+        // if count = capacity, evict, add
+        // else, count++, add
     }
     
     public void Put(int key, int value) {
-        if (cache.Count == capacity)
-        {
-            cache.Insert(0, value)
-        }
-        else
-        {
+        
+    }
 
-        }
+    private void Remove()
+    {
+
+    }
+
+    private void Add()
+    {
+        
     }
 }
 
