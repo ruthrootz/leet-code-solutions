@@ -31,14 +31,15 @@ public class LRUCache {
         back.Next = front;
         front.Previous = back;
     }
-    
+
     public int Get(int key) {
+        // if key in table, get Node, get value, move to front
+        // else, return -1
+    }
+
+    public void Put(int key, int value) {
         // if count = capacity, evict, add
         // else, count++, add
-    }
-    
-    public void Put(int key, int value) {
-        
     }
 
     private void Remove()
@@ -48,7 +49,7 @@ public class LRUCache {
 
     private void Add()
     {
-        
+
     }
 }
 
